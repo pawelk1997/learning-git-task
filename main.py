@@ -14,3 +14,5 @@ for shop, items_list in zakupy.items():
     print(f"Idę do {shop.capitalize()} i kupuję tam {capitalized_items}")
 
 print(f"W sumie kupiję {number} produktów.")
+
+print("A tutaj wprowadzam pierwszą zmianę w kodzie :)")
