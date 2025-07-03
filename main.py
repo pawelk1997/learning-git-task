@@ -16,3 +16,4 @@ for shop, items_list in zakupy.items():
 print(f"W sumie kupiję {number} produktów.")
 
 print("A tutaj wprowadzam pierwszą zmianę w kodzie :)")
+print("Druga zmiana w kodzie")
