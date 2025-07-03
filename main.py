@@ -17,3 +17,4 @@ print(f"W sumie kupiję {number} produktów.")
 
 print("A tutaj wprowadzam pierwszą zmianę w kodzie :)")
 print("Druga zmiana w kodzie")
+print("Specjalne pozdrowienia z okazji stworzenia nowej głęzi")
